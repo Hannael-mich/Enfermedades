@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IB0YCNDbafqWqbMDU4VnwkqrygSnoeVrURziWSeGo1g=",
+  "Source": "ApiEnfermedades",
+  "BasePath": "_content/ApiEnfermedades",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
