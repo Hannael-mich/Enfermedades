@@ -133,3 +133,4 @@
 /home/mateos-ortiz-fernando/ApiEnfermedades/obj/Debug/net8.0/ApiEnfermedades.pdb
 /home/mateos-ortiz-fernando/ApiEnfermedades/obj/Debug/net8.0/ApiEnfermedades.genruntimeconfig.cache
 /home/mateos-ortiz-fernando/ApiEnfermedades/obj/Debug/net8.0/ref/ApiEnfermedades.dll
+/home/mateos-ortiz-fernando/ApiEnfermedades/obj/Debug/net8.0/ApiEnfermedades.sourcelink.json
