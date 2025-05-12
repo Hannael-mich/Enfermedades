@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "guoLsacWaM/AquW6QKI0zVLrZR6VMgiPTMleyK6nfltAI84zUGOpZLgaZ9fPlb1P44RdvILCHZ6pk4g1+65Rxw==",
+  "dgSpecHash": "lXzuf7CsdcaqMI7G9++6KPpH/SBQis/LP5RL0NJPbyj4W0bTbhjSjgxuNGBcJN7hj0hOXJ+V+HwP6SzE/1sh0g==",
   "success": true,
-  "projectFilePath": "/home/mateos-ortiz-fernando/ApiEnfermedades/ApiEnfermedades.csproj",
+  "projectFilePath": "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/ApiEnfermedades.csproj",
   "expectedPackageFiles": [
     "/home/mateos-ortiz-fernando/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/mateos-ortiz-fernando/.nuget/packages/microsoft.aspnetcore.openapi/8.0.15/microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mateos-ortiz-fernando/ApiEnfermedades/ApiEnfermedades.csproj": {}
+    "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/ApiEnfermedades.csproj": {}
   },
   "projects": {
-    "/home/mateos-ortiz-fernando/ApiEnfermedades/ApiEnfermedades.csproj": {
+    "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/ApiEnfermedades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mateos-ortiz-fernando/ApiEnfermedades/ApiEnfermedades.csproj",
+        "projectUniqueName": "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/ApiEnfermedades.csproj",
         "projectName": "ApiEnfermedades",
-        "projectPath": "/home/mateos-ortiz-fernando/ApiEnfermedades/ApiEnfermedades.csproj",
+        "projectPath": "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/ApiEnfermedades.csproj",
         "packagesPath": "/home/mateos-ortiz-fernando/.nuget/packages/",
-        "outputPath": "/home/mateos-ortiz-fernando/ApiEnfermedades/obj/",
+        "outputPath": "/home/mateos-ortiz-fernando/ApiEnfermedades/CODIGO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mateos-ortiz-fernando/.nuget/NuGet/NuGet.Config"
